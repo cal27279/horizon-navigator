@@ -24,7 +24,7 @@ This engine acts as a strategic filter:
 * **SDK:** Boto3
 * **DevOps:** Environment-based configuration for scalability.
 
-![Horizon Navigator Architecture](./Horizn_Navigator_Architecture.png)
+![Horizon Navigator Architecture](./Horizon_Navigator_Architecture.png)
 
 ---
 
