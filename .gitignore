@@ -1,0 +1,22 @@
+# --- Security & Credentials ---
+.env
+.aws/
+credentials
+secrets.txt
+*.pem
+
+# --- Python Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# --- OS / IDE Metadata ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Local Data & Logs ---
+*.log
