@@ -1,0 +1,99 @@
+Horizon Navigator: Authentic Raw Transcripts (Meetings 1-16)
+
+--- MEETING 1: PROJECT KICKOFF - AI CHATBOT (Date: 2026-02-10) ---
+Participants: Alice (Product), Bob (Dev), Charlie (charlie.dev@techcorp.com)
+Alice: We are starting the chatbot integration.
+Bob: I see a minor delay in the API documentation delivery.
+Charlie: Also, the token budget for the OpenAI API is quite tight for this quarter.
+Alice: If we don't get the data privacy sign-off, we face a total project blocker.
+
+--- MEETING 2: DATA INGESTION PIPELINE (Date: 2026-02-12) ---
+Participants: Dave (Data Eng), Elena (Legal)
+Dave: The raw data from the customer has inconsistent formatting.
+Elena: We found that 10% of the training set contains unencrypted PII.
+Dave: Our S3 storage costs are exceeding the budget by 15%.
+
+--- MEETING 3: MODEL TRAINING & INFRA (Date: 2026-02-14) ---
+Participants: Frank (ML Ops), Grace (grace.hr@company.com)
+Frank: We are experiencing a hardware failure on the GPU cluster.
+Grace: Two of our senior data scientists just submitted their resignation.
+Frank: The training time is slightly longer than expected, causing a small delay.
+
+--- MEETING 4: ETHICS & BIAS REVIEW (Date: 2026-02-16) ---
+Participants: Henry (Ethicist), Ivy (QA)
+Henry: The model is showing significant bias against certain demographics.
+Ivy: If we don't fix this, the legal department will issue a total blocker.
+Henry: We lack a diverse enough dataset for the validation phase.
+
+--- MEETING 5: CLOUD MIGRATION SYNC (Date: 2026-02-18) ---
+Participants: Jack (Cloud Arch), Kelly (kelly.cloud@aws-partner.com)
+Jack: The migration to the production environment is facing a budget shortage.
+Kelly: We noticed a latency spike that could lead to system failure under load.
+Jack: The documentation for the legacy system is incomplete.
+
+--- MEETING 6: PRE-LAUNCH GO/NO-GO (Date: 2026-02-20) ---
+Participants: Laura (VP), Mike (Security)
+Mike: A vulnerability scan revealed an exploit in the inference endpoint.
+Laura: We are missing the final stakeholder approval, causing a launch delay.
+Mike: The backup recovery site hasn't been tested yet.
+
+--- MEETING 7: SCALE-UP STRATEGY (Date: 2026-02-22) ---
+Participants: Carlos (PM), Oscar (oscar.ops@cloudinfra.net), Sarah (Frontend)
+Carlos: We need to ensure the system handles the 50k user spike next month.
+Oscar: Our current load balancer configuration is hitting its limit.
+Sarah: The frontend assets are taking too long to load on mobile devices.
+Oscar: If the regional AWS outage continues, we have no automated failover ready.
+
+--- MEETING 8: THIRD-PARTY INTEGRATION (Date: 2026-02-24) ---
+Participants: Carlos (PM), Victor (Vendor Manager), Nina (Dev)
+Victor: The third-party API provider just updated their Terms of Service without notice.
+Nina: The integration library we are using hasn't been updated in two years.
+Victor: There is a 20% price hike on the translation API starting next week.
+
+-- MEETING 9: UX & ACCESSIBILITY AUDIT (Date: 2026-02-26) ---
+Participants: Carlos (PM), Wendy (UX Designer), Xavier (Accessibility)
+Wendy: The user feedback from the beta shows confusion regarding the navigation menu.
+Xavier: The application is currently failing WCAG 2.1 compliance for screen readers.
+Wendy: We don't have enough localized content for the Spanish-speaking market.
+
+--- MEETING 10: POST-MORTEM & MAINTENANCE (Date: 2026-02-28) ---
+Participants: Carlos (PM), Yuri (Support Lead), Zack (Lead Dev)
+Yuri: The support team is overwhelmed by a 40% increase in tickets since the beta.
+Zack: We discovered a memory leak in the background processing task.
+Yuri: There is no documentation for the manual override of the AI's decisions.
+
+--- MEETING 11: STAKEHOLDER ALIGNMENT (Date: 2026-03-02) ---
+Participants: Carlos (PM), Diana (Sponsor), Pablo (pablo.finanzas@corp-global.com)
+Diana: The steering committee is considering shifting the project focus to a different market.
+Pablo: We need to audit the cloud expenses before the next fiscal quarter starts.
+Carlos: A key stakeholder from the marketing team has stopped attending our syncs.
+
+--- MEETING 12: VENDOR & CONTRACT REVIEW (Date: 2026-03-04) ---
+Participants: Carlos (PM), Robert (Procurement), Seth (seth.legal@lawfirm-ext.com)
+Robert: The primary hardware vendor is reporting a 4-week lead time increase.
+Seth: There is an ambiguity in the intellectual property clause of the sub-contractor agreement.
+Robert: The shipping costs for the local servers have doubled due to fuel surcharges.
+
+--- MEETING 13: CYBERSECURITY DRILL (Date: 2026-03-06) ---
+Participants: Mike (Security), Carlos (PM), Tina (tina.it@security-audit.io)
+Mike: Our penetration test found a SQL injection vulnerability in the legacy module.
+Tina: The employee password policy is currently not being enforced on the staging server.
+Mike: We lack an automated alert system for unauthorized S3 bucket access.
+
+--- MEETING 14: PERFORMANCE TUNING (Date: 2026-03-08) ---
+Participants: Frank (ML Ops), Jack (Cloud Arch)
+Frank: The inference time for the chatbot has increased by 200ms after the last update.
+Jack: We are hitting the API rate limits on our secondary data provider.
+Frank: The cooling system in the local data center is running at 95% capacity.
+
+--- MEETING 15: CHANGE REQUEST BOARD (Date: 2026-03-10) ---
+Participants: Alice (Product), Carlos (PM), Gary (gary.sales@techcorp.com)
+Gary: The sales team promised a new feature to a client that isn't on our roadmap.
+Alice: Implementing that feature now would require pushing back the launch by 3 weeks.
+Gary: The client is threatening to cancel the contract if the feature isn't included.
+
+--- MEETING 16: TEAM MORALE & RETENTION (Date: 2026-03-12) ---
+Participants: Carlos (PM), Grace (HR), Bob (bob.dev@techcorp.com)
+Bob: The team is reporting symptoms of burnout due to the recent overtime.
+Grace: Market salaries for Python developers have risen, making us less competitive.
+Carlos: We have a single point of failure because only one dev knows the core logic.
